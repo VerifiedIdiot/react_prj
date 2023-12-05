@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: "Nanum Gothic", sans-serif; */
+  overflow-x: hidden;
+  /* background-image: url("./assets/images/fall_leaf_2.gif"); */
+  
+}
+
+
+/* @font-face {
+  font-family: 'PyeongChangPeace-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+} */

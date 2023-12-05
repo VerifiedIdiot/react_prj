@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Peace-Bold';
+    src: url("./PyeongChangPeace-Bold.ttf") format('truetype');
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: 'Peace-Light';
+    src: url("./PyeongChangPeace-Light.ttf") format('truetype');
+    font-weight: normal;
+  }
+  
